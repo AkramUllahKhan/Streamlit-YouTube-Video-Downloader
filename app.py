@@ -126,7 +126,7 @@ st.markdown("""
         width: 100%;
         ">
         <p style="margin: 0;">Made with ❤️ by <strong>Akram Ullah</strong></p>
-        <p style="margin: 5px 0 0; font-size: 12px; color: #777;">For any inquiries, contact me at <a href="mailto:akramullahkhan05@gmail.com" style="color: #007bff;">akram@example.com</a></p>
+        <p style="margin: 5px 0 0; font-size: 12px; color: #777;">For any inquiries, contact me at <a href="mailto:akramullahkhan05@gmail.com" style="color: #007bff;">akramullahkhan05@gmail.com</a></p>
     </footer>
     """, unsafe_allow_html=True)
 
